@@ -1,7 +1,7 @@
 ### Exercício 6. Contagem de Palavras em Textos
 # Objetivo:** Dado um texto, contar quantas vezes cada palavra única aparece nele.
 
-texto = "a raposa marrom salta sobre o cachorro preguiçoso"
+texto = "Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão."
 palavras = texto.split()
 contagem_palavras = {}
 
