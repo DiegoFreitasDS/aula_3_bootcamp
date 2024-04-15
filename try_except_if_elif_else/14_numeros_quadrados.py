@@ -1,0 +1,1 @@
+# Imprima o quadrado de todos os números entre 1 a 10, exceto números pares
